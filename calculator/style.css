@@ -1,0 +1,27 @@
+section{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.number-input{
+  padding: 20px;
+  margin-left: 5px;
+}
+
+.math-operation{
+  background-color: orange;
+  color: white;
+  font-size: 31px;
+  padding: 23px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+h1{
+  color:darkorchid;
+}
+
+body{
+  background-image: url('numbers.jpg');
+}
